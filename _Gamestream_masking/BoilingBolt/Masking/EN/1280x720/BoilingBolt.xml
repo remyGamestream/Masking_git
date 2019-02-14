@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
-    <global w="1280" h="720" progname="BoilingBolt"/>
-    <label name="EXT_720p" percent="0.75" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <global w="1280" h="720" progname="fe"/>
+    <label name="EXT_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="176" y="512" width="16" height="16">
                 <colors>
@@ -802,7 +802,7 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
-    <label name="Grey_MainMeu_720p" percent="0.75" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
+    <label name="Grey_MainMeu_720p" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
         <tags>
             <tag x="112" y="512" width="16" height="16">
                 <colors>
@@ -1342,7 +1342,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Grey_Options_Gamepad_720p" percent="1" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
+    <label name="Grey_Options_Gamepad_720p" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
         <tags>
             <tag x="144" y="48" width="16" height="16">
                 <colors>
@@ -4774,18 +4774,16 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key>
-                <scancode value="40"/>
-            </key>
+            <key/>
             <gamepad>
                 <button value="1"/>
             </gamepad>
         </blacklist>
         <pad>
             <rx min="-1" max="1"/>
-            <ry min="-1" max="1"/>
+            <ry min="0" max="1"/>
             <lx min="-1" max="1"/>
-            <ly min="0" max="1"/>
+            <ly min="-1" max="1"/>
         </pad>
     </label>
     <label name="Grey_Options_Keyboard_720p" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
@@ -7190,9 +7188,9 @@
         </blacklist>
         <pad>
             <rx min="-1" max="1"/>
-            <ry min="-1" max="1"/>
+            <ry min="0" max="1"/>
             <lx min="-1" max="1"/>
-            <ly min="0" max="1"/>
+            <ly min="-1" max="1"/>
         </pad>
     </label>
 </labels>

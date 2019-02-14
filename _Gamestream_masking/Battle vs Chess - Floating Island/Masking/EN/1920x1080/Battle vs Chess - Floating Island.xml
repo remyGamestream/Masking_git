@@ -2612,6 +2612,7 @@
         <blacklist>
             <mouse>
                 <rect x="400" y="178" width="1139" height="156"/>
+                <rect x="618" y="959" width="667" height="121"/>
             </mouse>
             <key>
                 <scancode value="13"/>
@@ -15379,6 +15380,7 @@
             <mouse>
                 <rect x="377" y="195" width="1225" height="139"/>
                 <rect x="419" y="724" width="1123" height="99"/>
+                <rect x="663" y="982" width="590" height="98"/>
             </mouse>
             <key>
                 <scancode value="13"/>
@@ -24505,6 +24507,7 @@
         <blacklist>
             <mouse>
                 <rect x="465" y="202" width="1070" height="133"/>
+                <rect x="669" y="971" width="582" height="109"/>
             </mouse>
             <key/>
             <gamepad/>
@@ -29468,6 +29471,7 @@
             <mouse>
                 <rect x="365" y="211" width="1228" height="116"/>
                 <rect x="426" y="729" width="1123" height="100"/>
+                <rect x="588" y="971" width="773" height="109"/>
             </mouse>
             <key/>
             <gamepad/>

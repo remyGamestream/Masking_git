@@ -3392,6 +3392,7 @@
         <blacklist>
             <mouse>
                 <rect x="321" y="144" width="662" height="74"/>
+                <rect x="256" y="653" width="768" height="67"/>
             </mouse>
             <key>
                 <scancode value="13"/>
@@ -12780,6 +12781,7 @@
             <mouse>
                 <rect x="298" y="140" width="740" height="82"/>
                 <rect x="312" y="480" width="667" height="74"/>
+                <rect x="331" y="653" width="646" height="67"/>
             </mouse>
             <key>
                 <scancode value="13"/>
@@ -12796,7 +12798,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="snaphot_10_avg_1280_720" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
+    <label name="snaphot_10_avg_1280_720" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
         <tags>
             <tag x="496" y="80" width="16" height="16">
                 <colors>
@@ -15147,6 +15149,7 @@
         <blacklist>
             <mouse>
                 <rect x="293" y="137" width="713" height="82"/>
+                <rect x="379" y="659" width="534" height="61"/>
             </mouse>
             <key/>
             <gamepad/>
@@ -15158,7 +15161,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="snaphot_11_avg_1280_720" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
+    <label name="snaphot_11_avg_1280_720" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
         <tags>
             <tag x="544" y="80" width="16" height="16">
                 <colors>
@@ -16730,6 +16733,7 @@
             <mouse>
                 <rect x="322" y="132" width="671" height="92"/>
                 <rect x="285" y="477" width="697" height="81"/>
+                <rect x="436" y="655" width="430" height="65"/>
             </mouse>
             <key/>
             <gamepad/>
