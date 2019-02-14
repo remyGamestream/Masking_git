@@ -1,0 +1,1 @@
+[{"type":"remote-exec","command":"\"C:/Program Files/Scalable Graphics/SgxShimmingDeltaQA/cgx_versions/cgx-v3/bin_64/shimmer_cmd.exe\" --instance-id=0 --cmd-line=\"--snapshot=c:/Toto/Snapshots\"","working_dir":"C:/Program Files/Scalable Graphics/SgxShimmingDeltaQA/cgx_versions/cgx-v3/bin_64","kill_on_close":false,"exit_code":true,"output_redirect":true,"timeout":"0"}]
