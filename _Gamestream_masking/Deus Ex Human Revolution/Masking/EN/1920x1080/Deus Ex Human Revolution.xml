@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
-    <global w="1920" h="1080" progname="cd"/>
+    <global w="1920" h="1080" progname="xv"/>
     <label name="EXT" percent="0.75" percent_per_block="0.85" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="688" y="432" width="16" height="16">
@@ -15663,7 +15663,7 @@
         </whitelist>
         <blacklist>
             <mouse>
-                <rect x="565" y="241" width="806" height="618"/>
+                <rect x="520" y="223" width="1241" height="653"/>
             </mouse>
             <key>
                 <scancode value="13"/>
