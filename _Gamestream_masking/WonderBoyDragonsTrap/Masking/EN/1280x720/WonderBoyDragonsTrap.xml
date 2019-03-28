@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
-    <global w="1280" h="720" progname="gg"/>
+    <global w="1280" h="720" progname="gr"/>
     <label name="EXT_720" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="144" y="560" width="16" height="16">
@@ -5772,7 +5772,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="0" y="0" width="1280" height="720"/>
+            </mouse>
             <key>
                 <scancode value="13"/>
                 <scancode value="32"/>
@@ -6837,7 +6839,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="0" y="0" width="1280" height="720"/>
+            </mouse>
             <key>
                 <scancode value="13"/>
                 <scancode value="32"/>
@@ -11563,7 +11567,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="0" y="0" width="1280" height="720"/>
+            </mouse>
             <key>
                 <scancode value="13"/>
                 <scancode value="32"/>
@@ -15748,7 +15754,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="0" y="0" width="1280" height="720"/>
+            </mouse>
             <key>
                 <scancode value="13"/>
                 <scancode value="32"/>
