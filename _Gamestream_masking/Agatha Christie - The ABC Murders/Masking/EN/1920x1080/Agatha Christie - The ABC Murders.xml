@@ -6076,5 +6076,6 @@
             <lx min="-1" max="1"/>
             <ly min="-1" max="1"/>
         </pad>
+        <exitfilter exit_code="2" exit_time="10"/>
     </label>
 </labels>
