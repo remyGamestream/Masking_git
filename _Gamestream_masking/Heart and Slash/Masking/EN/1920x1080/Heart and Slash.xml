@@ -10720,6 +10720,7 @@
             <gamepad>
                 <button value="12"/>
                 <button value="14"/>
+                <button value="4"/>
             </gamepad>
         </blacklist>
         <pad>
@@ -12309,6 +12310,7 @@
             <gamepad>
                 <button value="12"/>
                 <button value="14"/>
+                <button value="4"/>
             </gamepad>
         </blacklist>
         <pad>
@@ -14417,6 +14419,7 @@
             <gamepad>
                 <button value="14"/>
                 <button value="12"/>
+                <button value="4"/>
             </gamepad>
         </blacklist>
         <pad>
@@ -18084,6 +18087,8 @@
             </key>
             <gamepad>
                 <button value="12"/>
+                <button value="4"/>
+                <button value="14"/>
             </gamepad>
         </blacklist>
         <pad>
