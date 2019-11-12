@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
-    <global w="1280" h="720" progname="Lords of the Fallen"/>
+    <global w="1280" h="720" progname="Lords of the fallen"/>
     <label name="exit" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="544" y="192" width="16" height="16">
@@ -1580,7 +1580,7 @@
             <lx min="-1" max="1"/>
             <ly min="-1" max="1"/>
         </pad>
-        <exitfilter exit_code="0" exit_time="10"/>
+        <exitfilter exit_code="2" exit_time="10"/>
     </label>
     <label name="Grey-options" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.3">
         <tags>
