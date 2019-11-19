@@ -6614,7 +6614,9 @@
         <whitelist>
             <mouse/>
             <key/>
-            <gamepad/>
+            <gamepad>
+                <button value="13"/>
+            </gamepad>
         </whitelist>
         <blacklist>
             <mouse/>
