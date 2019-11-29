@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
-    <global w="1280" h="720" progname="Magicka 2 - Gates of Midgaard Challenge Pack"/>
+    <global w="1280" h="720" progname="Magicka 2"/>
     <label name="exit" percent="0.9" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="1184" y="64" width="16" height="16">
@@ -540,7 +540,7 @@
             <lx min="-1" max="1"/>
             <ly min="-1" max="1"/>
         </pad>
-        <exitfilter exit_code="0" exit_time="10"/>
+        <exitfilter exit_code="2" exit_time="10"/>
     </label>
     <label name="Gray-skip_online" percent="0.9" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
         <tags>
@@ -3182,7 +3182,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Gray-settings" percent="0.9" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+    <label name="Gray-settings" percent="0.9" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.6" btn_press_block_time_after_move="0.6" key_press_block_time_after_key_press="0.6">
         <tags>
             <tag x="64" y="656" width="16" height="16">
                 <colors>
@@ -3724,7 +3724,7 @@
     </label>
     <label name="go_online" percent="0.9" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
-            <tag x="70" y="510" width="10" height="10">
+            <tag x="70" y="510" width="16" height="16">
                 <colors>
                     <color r="66" g="36" b="23"/>
                     <color r="80" g="45" b="27"/>
@@ -3736,6 +3736,12 @@
                     <color r="73" g="40" b="24"/>
                     <color r="74" g="43" b="24"/>
                     <color r="79" g="46" b="24"/>
+                    <color r="90" g="51" b="29"/>
+                    <color r="71" g="38" b="24"/>
+                    <color r="64" g="35" b="22"/>
+                    <color r="55" g="28" b="18"/>
+                    <color r="41" g="21" b="13"/>
+                    <color r="37" g="18" b="10"/>
                     <color r="58" g="31" b="20"/>
                     <color r="69" g="37" b="23"/>
                     <color r="67" g="37" b="23"/>
@@ -3746,6 +3752,12 @@
                     <color r="59" g="33" b="20"/>
                     <color r="62" g="34" b="21"/>
                     <color r="71" g="39" b="23"/>
+                    <color r="68" g="38" b="23"/>
+                    <color r="54" g="28" b="18"/>
+                    <color r="44" g="22" b="14"/>
+                    <color r="40" g="19" b="11"/>
+                    <color r="40" g="19" b="12"/>
+                    <color r="40" g="20" b="12"/>
                     <color r="53" g="26" b="17"/>
                     <color r="63" g="31" b="20"/>
                     <color r="90" g="51" b="30"/>
@@ -3756,6 +3768,12 @@
                     <color r="54" g="28" b="17"/>
                     <color r="68" g="39" b="24"/>
                     <color r="66" g="36" b="22"/>
+                    <color r="50" g="25" b="15"/>
+                    <color r="43" g="21" b="13"/>
+                    <color r="42" g="20" b="12"/>
+                    <color r="43" g="23" b="15"/>
+                    <color r="30" g="25" b="23"/>
+                    <color r="27" g="27" b="27"/>
                     <color r="65" g="35" b="22"/>
                     <color r="67" g="36" b="23"/>
                     <color r="137" g="85" b="42"/>
@@ -3766,6 +3784,12 @@
                     <color r="68" g="35" b="24"/>
                     <color r="71" g="40" b="24"/>
                     <color r="55" g="28" b="18"/>
+                    <color r="43" g="21" b="13"/>
+                    <color r="48" g="24" b="14"/>
+                    <color r="97" g="56" b="29"/>
+                    <color r="172" g="114" b="57"/>
+                    <color r="118" g="86" b="50"/>
+                    <color r="76" g="61" b="43"/>
                     <color r="64" g="35" b="21"/>
                     <color r="69" g="38" b="25"/>
                     <color r="172" g="110" b="53"/>
@@ -3776,6 +3800,12 @@
                     <color r="71" g="39" b="24"/>
                     <color r="61" g="31" b="20"/>
                     <color r="46" g="22" b="14"/>
+                    <color r="42" g="20" b="12"/>
+                    <color r="80" g="46" b="24"/>
+                    <color r="182" g="120" b="56"/>
+                    <color r="213" g="143" b="68"/>
+                    <color r="205" g="137" b="65"/>
+                    <color r="182" g="117" b="56"/>
                     <color r="61" g="32" b="20"/>
                     <color r="72" g="39" b="24"/>
                     <color r="154" g="97" b="48"/>
@@ -3786,6 +3816,12 @@
                     <color r="69" g="38" b="23"/>
                     <color r="51" g="26" b="16"/>
                     <color r="41" g="20" b="12"/>
+                    <color r="43" g="21" b="13"/>
+                    <color r="65" g="35" b="22"/>
+                    <color r="125" g="77" b="40"/>
+                    <color r="185" g="119" b="56"/>
+                    <color r="198" g="129" b="59"/>
+                    <color r="184" g="117" b="55"/>
                     <color r="59" g="30" b="19"/>
                     <color r="72" g="39" b="24"/>
                     <color r="101" g="59" b="32"/>
@@ -3796,6 +3832,12 @@
                     <color r="70" g="38" b="22"/>
                     <color r="43" g="21" b="13"/>
                     <color r="41" g="20" b="12"/>
+                    <color r="41" g="20" b="12"/>
+                    <color r="44" g="21" b="13"/>
+                    <color r="60" g="31" b="20"/>
+                    <color r="67" g="36" b="22"/>
+                    <color r="74" g="41" b="24"/>
+                    <color r="75" g="41" b="25"/>
                     <color r="70" g="19" b="43"/>
                     <color r="63" g="34" b="21"/>
                     <color r="75" g="42" b="26"/>
@@ -3806,6 +3848,12 @@
                     <color r="133" g="83" b="40"/>
                     <color r="57" g="31" b="17"/>
                     <color r="39" g="23" b="16"/>
+                    <color r="41" g="21" b="14"/>
+                    <color r="40" g="19" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="43" g="22" b="14"/>
+                    <color r="53" g="28" b="18"/>
+                    <color r="85" g="27" b="52"/>
                     <color r="110" g="13" b="91"/>
                     <color r="41" g="19" b="12"/>
                     <color r="50" g="24" b="16"/>
@@ -3816,6 +3864,12 @@
                     <color r="205" g="135" b="62"/>
                     <color r="132" g="84" b="43"/>
                     <color r="36" g="28" b="21"/>
+                    <color r="32" g="24" b="18"/>
+                    <color r="37" g="22" b="16"/>
+                    <color r="39" g="19" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="122" g="13" b="104"/>
                     <color r="130" g="14" b="113"/>
                     <color r="40" g="20" b="12"/>
                     <color r="40" g="20" b="12"/>
@@ -3826,9 +3880,111 @@
                     <color r="211" g="141" b="65"/>
                     <color r="207" g="138" b="63"/>
                     <color r="126" g="87" b="44"/>
+                    <color r="42" g="35" b="23"/>
+                    <color r="25" g="24" b="18"/>
+                    <color r="33" g="35" b="33"/>
+                    <color r="59" g="25" b="49"/>
+                    <color r="103" g="18" b="90"/>
+                    <color r="193" g="7" b="189"/>
+                    <color r="130" g="22" b="118"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="41" g="20" b="12"/>
+                    <color r="43" g="22" b="14"/>
+                    <color r="56" g="29" b="18"/>
+                    <color r="97" g="56" b="31"/>
+                    <color r="193" g="126" b="59"/>
+                    <color r="212" g="142" b="65"/>
+                    <color r="210" g="139" b="65"/>
+                    <color r="154" g="103" b="50"/>
+                    <color r="52" g="40" b="24"/>
+                    <color r="26" g="26" b="19"/>
+                    <color r="96" g="32" b="112"/>
+                    <color r="185" g="13" b="192"/>
+                    <color r="240" g="3" b="242"/>
+                    <color r="146" g="21" b="136"/>
+                    <color r="40" g="20" b="14"/>
+                    <color r="41" g="20" b="13"/>
+                    <color r="42" g="21" b="13"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="42" g="21" b="13"/>
+                    <color r="54" g="27" b="18"/>
+                    <color r="102" g="62" b="34"/>
+                    <color r="190" g="125" b="58"/>
+                    <color r="212" g="142" b="67"/>
+                    <color r="207" g="140" b="66"/>
+                    <color r="156" g="104" b="51"/>
+                    <color r="43" g="36" b="23"/>
+                    <color r="145" g="16" b="144"/>
+                    <color r="236" g="3" b="238"/>
+                    <color r="254" g="0" b="254"/>
+                    <color r="173" g="11" b="166"/>
+                    <color r="38" g="19" b="12"/>
+                    <color r="52" g="27" b="17"/>
+                    <color r="57" g="29" b="18"/>
+                    <color r="44" g="21" b="13"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="41" g="20" b="12"/>
+                    <color r="51" g="27" b="17"/>
+                    <color r="101" g="60" b="32"/>
+                    <color r="184" g="122" b="57"/>
+                    <color r="211" g="141" b="67"/>
+                    <color r="208" g="141" b="64"/>
+                    <color r="149" g="101" b="50"/>
+                    <color r="191" g="10" b="186"/>
+                    <color r="253" g="0" b="254"/>
+                    <color r="255" g="0" b="255"/>
+                    <color r="190" g="11" b="180"/>
+                    <color r="51" g="29" b="17"/>
+                    <color r="65" g="36" b="21"/>
+                    <color r="70" g="37" b="24"/>
+                    <color r="53" g="26" b="16"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="41" g="20" b="12"/>
+                    <color r="49" g="25" b="16"/>
+                    <color r="92" g="53" b="29"/>
+                    <color r="181" g="116" b="57"/>
+                    <color r="208" g="140" b="65"/>
+                    <color r="206" g="139" b="65"/>
+                    <color r="221" g="27" b="196"/>
+                    <color r="254" g="0" b="254"/>
+                    <color r="255" g="0" b="255"/>
+                    <color r="193" g="10" b="181"/>
+                    <color r="69" g="42" b="25"/>
+                    <color r="86" g="51" b="31"/>
+                    <color r="73" g="39" b="24"/>
+                    <color r="65" g="35" b="22"/>
+                    <color r="49" g="25" b="14"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="41" g="20" b="12"/>
+                    <color r="48" g="24" b="15"/>
+                    <color r="89" g="49" b="28"/>
+                    <color r="185" g="118" b="56"/>
+                    <color r="205" g="136" b="61"/>
+                    <color r="231" g="55" b="173"/>
+                    <color r="248" g="3" b="245"/>
+                    <color r="254" g="0" b="254"/>
+                    <color r="183" g="10" b="170"/>
+                    <color r="72" g="40" b="25"/>
+                    <color r="88" g="52" b="32"/>
+                    <color r="91" g="36" b="47"/>
+                    <color r="120" g="28" b="85"/>
+                    <color r="110" g="24" b="87"/>
+                    <color r="66" g="32" b="47"/>
+                    <color r="67" g="21" b="41"/>
+                    <color r="106" g="16" b="85"/>
+                    <color r="109" g="16" b="90"/>
+                    <color r="80" g="25" b="47"/>
+                    <color r="106" g="60" b="32"/>
+                    <color r="188" g="122" b="56"/>
+                    <color r="226" g="70" b="153"/>
+                    <color r="247" g="14" b="232"/>
+                    <color r="252" g="1" b="252"/>
                 </colors>
             </tag>
-            <tag x="70" y="500" width="10" height="10">
+            <tag x="70" y="500" width="16" height="16">
                 <colors>
                     <color r="146" g="10" b="131"/>
                     <color r="40" g="19" b="12"/>
@@ -3840,6 +3996,12 @@
                     <color r="78" g="36" b="58"/>
                     <color r="119" g="20" b="90"/>
                     <color r="122" g="23" b="91"/>
+                    <color r="96" g="37" b="49"/>
+                    <color r="67" g="36" b="24"/>
+                    <color r="55" g="30" b="18"/>
+                    <color r="143" g="12" b="125"/>
+                    <color r="230" g="3" b="226"/>
+                    <color r="252" g="0" b="252"/>
                     <color r="166" g="12" b="156"/>
                     <color r="45" g="23" b="15"/>
                     <color r="63" g="34" b="21"/>
@@ -3850,6 +4012,12 @@
                     <color r="65" g="35" b="22"/>
                     <color r="68" g="37" b="23"/>
                     <color r="81" g="45" b="26"/>
+                    <color r="66" g="36" b="22"/>
+                    <color r="85" g="24" b="53"/>
+                    <color r="127" g="14" b="108"/>
+                    <color r="203" g="5" b="197"/>
+                    <color r="247" g="1" b="247"/>
+                    <color r="254" g="0" b="254"/>
                     <color r="193" g="12" b="190"/>
                     <color r="42" g="22" b="15"/>
                     <color r="54" g="29" b="18"/>
@@ -3860,6 +4028,12 @@
                     <color r="83" g="49" b="28"/>
                     <color r="84" g="49" b="28"/>
                     <color r="76" g="42" b="25"/>
+                    <color r="60" g="33" b="19"/>
+                    <color r="128" g="14" b="108"/>
+                    <color r="213" g="5" b="207"/>
+                    <color r="247" g="2" b="247"/>
+                    <color r="255" g="0" b="255"/>
+                    <color r="255" g="0" b="255"/>
                     <color r="189" g="15" b="195"/>
                     <color r="40" g="20" b="12"/>
                     <color r="42" g="22" b="13"/>
@@ -3870,6 +4044,12 @@
                     <color r="83" g="48" b="28"/>
                     <color r="78" g="44" b="27"/>
                     <color r="65" g="37" b="23"/>
+                    <color r="51" g="28" b="17"/>
+                    <color r="128" g="14" b="108"/>
+                    <color r="211" g="7" b="210"/>
+                    <color r="249" g="1" b="249"/>
+                    <color r="255" g="0" b="255"/>
+                    <color r="255" g="0" b="255"/>
                     <color r="175" g="24" b="190"/>
                     <color r="39" g="20" b="12"/>
                     <color r="39" g="20" b="12"/>
@@ -3880,6 +4060,12 @@
                     <color r="105" g="64" b="35"/>
                     <color r="63" g="35" b="22"/>
                     <color r="50" g="27" b="16"/>
+                    <color r="47" g="24" b="17"/>
+                    <color r="179" g="11" b="173"/>
+                    <color r="251" g="1" b="251"/>
+                    <color r="250" g="1" b="251"/>
+                    <color r="255" g="0" b="255"/>
+                    <color r="255" g="0" b="255"/>
                     <color r="178" g="24" b="184"/>
                     <color r="51" g="28" b="17"/>
                     <color r="40" g="20" b="13"/>
@@ -3890,6 +4076,12 @@
                     <color r="157" g="100" b="49"/>
                     <color r="60" g="33" b="19"/>
                     <color r="40" g="19" b="13"/>
+                    <color r="34" g="29" b="25"/>
+                    <color r="171" g="14" b="178"/>
+                    <color r="250" g="1" b="251"/>
+                    <color r="250" g="1" b="250"/>
+                    <color r="250" g="1" b="250"/>
+                    <color r="254" g="0" b="254"/>
                     <color r="176" g="38" b="141"/>
                     <color r="87" g="53" b="34"/>
                     <color r="47" g="24" b="15"/>
@@ -3900,6 +4092,12 @@
                     <color r="189" g="123" b="60"/>
                     <color r="101" g="59" b="33"/>
                     <color r="36" g="29" b="25"/>
+                    <color r="24" g="37" b="40"/>
+                    <color r="95" g="32" b="99"/>
+                    <color r="190" g="25" b="178"/>
+                    <color r="201" g="31" b="175"/>
+                    <color r="208" g="35" b="175"/>
+                    <color r="224" g="28" b="199"/>
                     <color r="173" g="51" b="120"/>
                     <color r="111" g="69" b="40"/>
                     <color r="66" g="37" b="22"/>
@@ -3910,6 +4108,12 @@
                     <color r="204" g="137" b="67"/>
                     <color r="156" g="105" b="56"/>
                     <color r="50" g="46" b="38"/>
+                    <color r="70" g="58" b="45"/>
+                    <color r="123" g="79" b="44"/>
+                    <color r="141" g="90" b="48"/>
+                    <color r="163" g="106" b="52"/>
+                    <color r="183" g="119" b="58"/>
+                    <color r="193" g="129" b="60"/>
                     <color r="106" g="42" b="57"/>
                     <color r="80" g="45" b="27"/>
                     <color r="61" g="32" b="21"/>
@@ -3920,6 +4124,12 @@
                     <color r="207" g="141" b="70"/>
                     <color r="200" g="134" b="65"/>
                     <color r="145" g="97" b="51"/>
+                    <color r="111" g="66" b="37"/>
+                    <color r="122" g="76" b="40"/>
+                    <color r="146" g="91" b="46"/>
+                    <color r="151" g="97" b="51"/>
+                    <color r="151" g="99" b="54"/>
+                    <color r="155" g="104" b="55"/>
                     <color r="66" g="36" b="22"/>
                     <color r="76" g="42" b="26"/>
                     <color r="65" g="33" b="23"/>
@@ -3930,6 +4140,108 @@
                     <color r="164" g="103" b="51"/>
                     <color r="145" g="93" b="44"/>
                     <color r="106" g="64" b="33"/>
+                    <color r="104" g="61" b="33"/>
+                    <color r="102" g="59" b="32"/>
+                    <color r="86" g="48" b="27"/>
+                    <color r="84" g="47" b="28"/>
+                    <color r="89" g="53" b="31"/>
+                    <color r="84" g="49" b="30"/>
+                    <color r="66" g="36" b="23"/>
+                    <color r="80" g="45" b="27"/>
+                    <color r="66" g="35" b="22"/>
+                    <color r="45" g="22" b="14"/>
+                    <color r="39" g="19" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="49" g="24" b="16"/>
+                    <color r="73" g="40" b="24"/>
+                    <color r="74" g="43" b="24"/>
+                    <color r="79" g="46" b="24"/>
+                    <color r="90" g="51" b="29"/>
+                    <color r="71" g="38" b="24"/>
+                    <color r="64" g="35" b="22"/>
+                    <color r="55" g="28" b="18"/>
+                    <color r="41" g="21" b="13"/>
+                    <color r="37" g="18" b="10"/>
+                    <color r="58" g="31" b="20"/>
+                    <color r="69" g="37" b="23"/>
+                    <color r="67" g="37" b="23"/>
+                    <color r="53" g="27" b="18"/>
+                    <color r="32" g="18" b="14"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="41" g="21" b="13"/>
+                    <color r="59" g="33" b="20"/>
+                    <color r="62" g="34" b="21"/>
+                    <color r="71" g="39" b="23"/>
+                    <color r="68" g="38" b="23"/>
+                    <color r="54" g="28" b="18"/>
+                    <color r="44" g="22" b="14"/>
+                    <color r="40" g="19" b="11"/>
+                    <color r="40" g="19" b="12"/>
+                    <color r="40" g="20" b="12"/>
+                    <color r="53" g="26" b="17"/>
+                    <color r="63" g="31" b="20"/>
+                    <color r="90" g="51" b="30"/>
+                    <color r="70" g="37" b="23"/>
+                    <color r="21" g="23" b="25"/>
+                    <color r="39" g="22" b="14"/>
+                    <color r="45" g="23" b="13"/>
+                    <color r="54" g="28" b="17"/>
+                    <color r="68" g="39" b="24"/>
+                    <color r="66" g="36" b="22"/>
+                    <color r="50" g="25" b="15"/>
+                    <color r="43" g="21" b="13"/>
+                    <color r="42" g="20" b="12"/>
+                    <color r="43" g="23" b="15"/>
+                    <color r="30" g="25" b="23"/>
+                    <color r="27" g="27" b="27"/>
+                    <color r="65" g="35" b="22"/>
+                    <color r="67" g="36" b="23"/>
+                    <color r="137" g="85" b="42"/>
+                    <color r="141" g="87" b="42"/>
+                    <color r="38" g="34" b="29"/>
+                    <color r="39" g="22" b="14"/>
+                    <color r="48" g="25" b="14"/>
+                    <color r="68" g="35" b="24"/>
+                    <color r="71" g="40" b="24"/>
+                    <color r="55" g="28" b="18"/>
+                    <color r="43" g="21" b="13"/>
+                    <color r="48" g="24" b="14"/>
+                    <color r="97" g="56" b="29"/>
+                    <color r="172" g="114" b="57"/>
+                    <color r="118" g="86" b="50"/>
+                    <color r="76" g="61" b="43"/>
+                    <color r="64" g="35" b="21"/>
+                    <color r="69" g="38" b="25"/>
+                    <color r="172" g="110" b="53"/>
+                    <color r="184" g="119" b="56"/>
+                    <color r="153" g="99" b="48"/>
+                    <color r="52" g="27" b="17"/>
+                    <color r="57" g="31" b="19"/>
+                    <color r="71" g="39" b="24"/>
+                    <color r="61" g="31" b="20"/>
+                    <color r="46" g="22" b="14"/>
+                    <color r="42" g="20" b="12"/>
+                    <color r="80" g="46" b="24"/>
+                    <color r="182" g="120" b="56"/>
+                    <color r="213" g="143" b="68"/>
+                    <color r="205" g="137" b="65"/>
+                    <color r="182" g="117" b="56"/>
+                    <color r="61" g="32" b="20"/>
+                    <color r="72" g="39" b="24"/>
+                    <color r="154" g="97" b="48"/>
+                    <color r="208" g="138" b="64"/>
+                    <color r="202" g="132" b="62"/>
+                    <color r="117" g="70" b="37"/>
+                    <color r="83" g="47" b="27"/>
+                    <color r="69" g="38" b="23"/>
+                    <color r="51" g="26" b="16"/>
+                    <color r="41" g="20" b="12"/>
+                    <color r="43" g="21" b="13"/>
+                    <color r="65" g="35" b="22"/>
+                    <color r="125" g="77" b="40"/>
+                    <color r="185" g="119" b="56"/>
+                    <color r="198" g="129" b="59"/>
+                    <color r="184" g="117" b="55"/>
                 </colors>
             </tag>
         </tags>
@@ -9321,10 +9633,10 @@
                 <scancode value="32"/>
             </key>
             <gamepad>
-                <button value="9"/>
-                <button value="8"/>
                 <button value="12"/>
                 <button value="13"/>
+                <button value="8"/>
+                <button value="9"/>
             </gamepad>
         </whitelist>
         <blacklist>
