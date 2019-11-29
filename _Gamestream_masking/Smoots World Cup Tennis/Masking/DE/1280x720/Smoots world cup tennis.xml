@@ -1062,7 +1062,7 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
-    <label name="Grey_MainMenu_720p" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
+    <label name="Grey_MainMenu_720p" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.3" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
         <tags>
             <tag x="64" y="96" width="16" height="16">
                 <colors>
@@ -4250,7 +4250,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Grey_Options_720p" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Grey_Options_720p" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.6" btn_press_block_time_after_move="0.6" key_press_block_time_after_key_press="0.6">
         <tags>
             <tag x="64" y="496" width="16" height="16">
                 <colors>
