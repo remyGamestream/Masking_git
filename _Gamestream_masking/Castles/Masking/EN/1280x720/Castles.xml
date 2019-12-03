@@ -1602,7 +1602,7 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
-    <label name="Options_Pink_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Options_Pink_720p" percent="1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="1088" y="592" width="16" height="16">
                 <colors>
@@ -1886,7 +1886,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="Options_IG_Pink_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Options_IG_Pink_720p" percent="1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="1072" y="592" width="16" height="16">
                 <colors>
