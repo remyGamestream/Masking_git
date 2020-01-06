@@ -2631,7 +2631,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="464" y="446" width="928" height="164"/>
+            </mouse>
             <key/>
             <gamepad>
                 <button value="12"/>
@@ -14873,7 +14875,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="508" y="446" width="905" height="162"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
