@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
-    <global w="1920" h="1080" progname="Grid Autosport"/>
-    <label name="EXT" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <global w="1920" h="1080" progname="GRID Autosport"/>
+    <label name="EXT" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="672" y="816" width="16" height="16">
                 <colors>
@@ -1582,7 +1582,7 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
-    <label name="exit2" percent="0.9" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="exit2" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="944" y="848" width="16" height="16">
                 <colors>
@@ -3163,7 +3163,7 @@
         </pad>
         <exitfilter exit_code="0" exit_time="10"/>
     </label>
-    <label name="exit3" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="exit3" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="656" y="896" width="16" height="16">
                 <colors>
@@ -4744,7 +4744,7 @@
         </pad>
         <exitfilter exit_code="0" exit_time="10"/>
     </label>
-    <label name="graphics" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+    <label name="graphics" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
         <tags>
             <tag x="1184" y="944" width="16" height="16">
                 <colors>
@@ -6324,7 +6324,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="online" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+    <label name="online" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
         <tags>
             <tag x="928" y="816" width="16" height="16">
                 <colors>
@@ -7904,7 +7904,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Achievements" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+    <label name="Achievements" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
         <tags>
             <tag x="656" y="640" width="16" height="16">
                 <colors>
@@ -9484,7 +9484,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Achievements" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Achievements" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="880" y="912" width="16" height="16">
                 <colors>
@@ -11068,7 +11068,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="DLC" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="DLC" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="912" y="880" width="16" height="16">
                 <colors>
@@ -12912,7 +12912,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="graphics" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="graphics" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="912" y="912" width="16" height="16">
                 <colors>
@@ -13976,7 +13976,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="online" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="online" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="944" y="832" width="16" height="16">
                 <colors>
@@ -16600,7 +16600,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="racenet" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="racenet" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="912" y="736" width="16" height="16">
                 <colors>
@@ -18184,7 +18184,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Graphics_Options_1080p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Graphics_Options_1080p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="656" y="672" width="16" height="16">
                 <colors>
@@ -19768,7 +19768,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="black_graph" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="black_graph" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="704" y="640" width="16" height="16">
                 <colors>
@@ -21352,7 +21352,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="black_video" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="black_video" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="704" y="672" width="16" height="16">
                 <colors>
@@ -22896,6 +22896,1046 @@
                     <color r="14" g="14" b="14"/>
                     <color r="14" g="14" b="14"/>
                     <color r="14" g="14" b="14"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                </colors>
+            </tag>
+            <tag x="1136" y="928" width="16" height="16">
+                <colors>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                </colors>
+            </tag>
+            <tag x="1152" y="928" width="16" height="16">
+                <colors>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                </colors>
+            </tag>
+            <tag x="1168" y="928" width="16" height="16">
+                <colors>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                </colors>
+            </tag>
+            <tag x="1184" y="928" width="16" height="16">
+                <colors>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
+                    <color r="6" g="6" b="6"/>
                     <color r="6" g="6" b="6"/>
                     <color r="6" g="6" b="6"/>
                     <color r="6" g="6" b="6"/>
