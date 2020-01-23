@@ -13212,12 +13212,14 @@
             <key>
                 <scancode value="40"/>
                 <scancode value="38"/>
+                <scancode value="27"/>
                 <scancode value="13"/>
             </key>
             <gamepad>
                 <button value="12"/>
                 <button value="0"/>
                 <button value="1"/>
+                <button value="13"/>
             </gamepad>
         </whitelist>
         <blacklist>
