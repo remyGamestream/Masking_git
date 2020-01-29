@@ -5313,7 +5313,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+            </key>
             <gamepad>
                 <button value="1"/>
             </gamepad>
@@ -6115,7 +6117,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+            </key>
             <gamepad>
                 <button value="1"/>
             </gamepad>
@@ -7177,7 +7181,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -8240,7 +8248,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -9823,7 +9835,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -14586,7 +14602,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -15124,7 +15144,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="96"/>
+                <scancode value="97"/>
+                <scancode value="13"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="0"/>
@@ -17768,7 +17792,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="0"/>
@@ -20412,7 +20440,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="1"/>
@@ -23056,7 +23088,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="0"/>
@@ -28580,7 +28616,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="0"/>
                 <button value="1"/>
@@ -33289,7 +33329,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="38"/>
+            </key>
             <gamepad>
                 <button value="0"/>
             </gamepad>
@@ -38788,7 +38830,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="0"/>
                 <button value="1"/>
@@ -41937,7 +41983,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+            </key>
             <gamepad>
                 <button value="1"/>
             </gamepad>
@@ -45079,7 +45127,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="38"/>
+            </key>
             <gamepad>
                 <button value="0"/>
             </gamepad>
@@ -47696,7 +47746,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="27"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="13"/>

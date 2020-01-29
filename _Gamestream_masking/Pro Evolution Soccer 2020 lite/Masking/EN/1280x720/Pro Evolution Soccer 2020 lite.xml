@@ -5573,7 +5573,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+            </key>
             <gamepad>
                 <button value="1"/>
             </gamepad>
@@ -6375,7 +6377,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+            </key>
             <gamepad>
                 <button value="1"/>
             </gamepad>
@@ -7437,7 +7441,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -8500,7 +8508,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -10343,7 +10355,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -11146,7 +11162,11 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="1"/>
@@ -13524,7 +13544,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="0"/>
@@ -16948,7 +16972,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="0"/>
@@ -20652,7 +20680,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="0"/>
@@ -22771,550 +22803,6 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="White_settings_2" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
-        <tags>
-            <tag x="96" y="432" width="16" height="16">
-                <colors>
-                    <color r="49" g="46" b="46"/>
-                    <color r="53" g="50" b="50"/>
-                    <color r="104" g="102" b="102"/>
-                    <color r="123" g="121" b="121"/>
-                    <color r="128" g="126" b="126"/>
-                    <color r="129" g="127" b="127"/>
-                    <color r="126" g="124" b="124"/>
-                    <color r="117" g="115" b="115"/>
-                    <color r="73" g="70" b="70"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="67" g="65" b="65"/>
-                    <color r="124" g="122" b="122"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="99" g="97" b="97"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="125" g="123" b="123"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="116" g="114" b="114"/>
-                    <color r="108" g="106" b="106"/>
-                    <color r="126" g="124" b="124"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="122" g="120" b="120"/>
-                    <color r="62" g="59" b="59"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="51" g="48" b="48"/>
-                    <color r="95" g="92" b="92"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="126" g="124" b="124"/>
-                    <color r="53" g="50" b="50"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="81" g="79" b="79"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="50" g="47" b="47"/>
-                    <color r="121" g="119" b="119"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="75" g="72" b="72"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="90" g="88" b="88"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="62" g="59" b="59"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="102" g="100" b="100"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="87" g="85" b="85"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="98" g="96" b="96"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="97" g="95" b="95"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="97" g="95" b="95"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="99" g="96" b="96"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="56" g="53" b="53"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="101" g="99" b="99"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="62" g="59" b="59"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="62" g="60" b="60"/>
-                    <color r="123" g="121" b="121"/>
-                    <color r="93" g="90" b="90"/>
-                    <color r="109" g="107" b="107"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="85" g="83" b="83"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="82" g="80" b="80"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="51" g="48" b="48"/>
-                    <color r="120" g="118" b="118"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="75" g="72" b="72"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="124" g="122" b="122"/>
-                    <color r="65" g="62" b="62"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="65" g="62" b="62"/>
-                    <color r="123" g="121" b="121"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="129" g="127" b="127"/>
-                    <color r="54" g="51" b="51"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="121" g="119" b="119"/>
-                    <color r="124" g="122" b="122"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="117" g="115" b="115"/>
-                    <color r="109" g="107" b="107"/>
-                    <color r="128" g="126" b="126"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="107" g="105" b="105"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="98" g="96" b="96"/>
-                    <color r="65" g="62" b="62"/>
-                    <color r="122" g="120" b="120"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="81" g="79" b="79"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="54" g="51" b="51"/>
-                </colors>
-            </tag>
-            <tag x="128" y="432" width="16" height="16">
-                <colors>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="53" g="50" b="50"/>
-                    <color r="99" g="97" b="97"/>
-                    <color r="99" g="97" b="97"/>
-                    <color r="99" g="97" b="97"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="55" g="52" b="52"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="89" g="87" b="87"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="71" g="69" b="69"/>
-                    <color r="98" g="95" b="95"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="94" g="92" b="92"/>
-                    <color r="94" g="92" b="92"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="56" g="53" b="53"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="50" g="47" b="47"/>
-                    <color r="126" g="124" b="124"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="125" g="123" b="123"/>
-                    <color r="119" g="117" b="117"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="57" g="54" b="54"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="88" g="85" b="85"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="130" g="128" b="128"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                    <color r="49" g="46" b="46"/>
-                </colors>
-            </tag>
-        </tags>
-        <whitelist>
-            <mouse/>
-            <key/>
-            <gamepad>
-                <button value="13"/>
-                <button value="0"/>
-                <button value="1"/>
-            </gamepad>
-        </whitelist>
-        <blacklist>
-            <mouse/>
-            <key/>
-            <gamepad/>
-        </blacklist>
-        <pad>
-            <rx min="-1" max="1"/>
-            <ry min="-1" max="1"/>
-            <lx min="-1" max="1"/>
-            <ly min="-1" max="1"/>
-        </pad>
-    </label>
     <label name="white-welcome-messi" percent="0.5" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="176" y="352" width="16" height="16">
@@ -24362,6 +23850,554 @@
             <mouse/>
             <key/>
             <gamepad/>
+        </whitelist>
+        <blacklist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </blacklist>
+        <pad>
+            <rx min="-1" max="1"/>
+            <ry min="-1" max="1"/>
+            <lx min="-1" max="1"/>
+            <ly min="-1" max="1"/>
+        </pad>
+    </label>
+    <label name="White_settings_2" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+        <tags>
+            <tag x="96" y="432" width="16" height="16">
+                <colors>
+                    <color r="49" g="46" b="46"/>
+                    <color r="53" g="50" b="50"/>
+                    <color r="104" g="102" b="102"/>
+                    <color r="123" g="121" b="121"/>
+                    <color r="128" g="126" b="126"/>
+                    <color r="129" g="127" b="127"/>
+                    <color r="126" g="124" b="124"/>
+                    <color r="117" g="115" b="115"/>
+                    <color r="73" g="70" b="70"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="67" g="65" b="65"/>
+                    <color r="124" g="122" b="122"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="99" g="97" b="97"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="125" g="123" b="123"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="116" g="114" b="114"/>
+                    <color r="108" g="106" b="106"/>
+                    <color r="126" g="124" b="124"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="122" g="120" b="120"/>
+                    <color r="62" g="59" b="59"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="51" g="48" b="48"/>
+                    <color r="95" g="92" b="92"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="126" g="124" b="124"/>
+                    <color r="53" g="50" b="50"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="81" g="79" b="79"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="50" g="47" b="47"/>
+                    <color r="121" g="119" b="119"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="75" g="72" b="72"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="90" g="88" b="88"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="62" g="59" b="59"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="102" g="100" b="100"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="87" g="85" b="85"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="98" g="96" b="96"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="97" g="95" b="95"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="97" g="95" b="95"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="99" g="96" b="96"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="56" g="53" b="53"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="101" g="99" b="99"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="62" g="59" b="59"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="62" g="60" b="60"/>
+                    <color r="123" g="121" b="121"/>
+                    <color r="93" g="90" b="90"/>
+                    <color r="109" g="107" b="107"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="85" g="83" b="83"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="82" g="80" b="80"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="51" g="48" b="48"/>
+                    <color r="120" g="118" b="118"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="75" g="72" b="72"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="124" g="122" b="122"/>
+                    <color r="65" g="62" b="62"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="65" g="62" b="62"/>
+                    <color r="123" g="121" b="121"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="129" g="127" b="127"/>
+                    <color r="54" g="51" b="51"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="121" g="119" b="119"/>
+                    <color r="124" g="122" b="122"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="117" g="115" b="115"/>
+                    <color r="109" g="107" b="107"/>
+                    <color r="128" g="126" b="126"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="107" g="105" b="105"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="98" g="96" b="96"/>
+                    <color r="65" g="62" b="62"/>
+                    <color r="122" g="120" b="120"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="81" g="79" b="79"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="54" g="51" b="51"/>
+                </colors>
+            </tag>
+            <tag x="128" y="432" width="16" height="16">
+                <colors>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="53" g="50" b="50"/>
+                    <color r="99" g="97" b="97"/>
+                    <color r="99" g="97" b="97"/>
+                    <color r="99" g="97" b="97"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="55" g="52" b="52"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="89" g="87" b="87"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="71" g="69" b="69"/>
+                    <color r="98" g="95" b="95"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="94" g="92" b="92"/>
+                    <color r="94" g="92" b="92"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="56" g="53" b="53"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="50" g="47" b="47"/>
+                    <color r="126" g="124" b="124"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="125" g="123" b="123"/>
+                    <color r="119" g="117" b="117"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="57" g="54" b="54"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="88" g="85" b="85"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="130" g="128" b="128"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                    <color r="49" g="46" b="46"/>
+                </colors>
+            </tag>
+        </tags>
+        <whitelist>
+            <mouse/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
+            <gamepad>
+                <button value="13"/>
+                <button value="0"/>
+                <button value="1"/>
+            </gamepad>
         </whitelist>
         <blacklist>
             <mouse/>
@@ -27000,7 +27036,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="13"/>
                 <button value="0"/>
@@ -27804,7 +27844,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+                <scancode value="38"/>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="0"/>
                 <button value="1"/>
@@ -32553,7 +32597,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+            </key>
             <gamepad>
                 <button value="1"/>
             </gamepad>
@@ -33875,7 +33921,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="40"/>
+            </key>
             <gamepad>
                 <button value="1"/>
             </gamepad>
@@ -37537,7 +37585,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="38"/>
+            </key>
             <gamepad>
                 <button value="0"/>
             </gamepad>
@@ -39119,7 +39169,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="38"/>
+            </key>
             <gamepad>
                 <button value="0"/>
             </gamepad>
@@ -41481,7 +41533,9 @@
         </whitelist>
         <blacklist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="38"/>
+            </key>
             <gamepad>
                 <button value="0"/>
             </gamepad>
@@ -43058,7 +43112,11 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="27"/>
+                <scancode value="13"/>
+                <scancode value="88"/>
+            </key>
             <gamepad>
                 <button value="12"/>
                 <button value="13"/>
