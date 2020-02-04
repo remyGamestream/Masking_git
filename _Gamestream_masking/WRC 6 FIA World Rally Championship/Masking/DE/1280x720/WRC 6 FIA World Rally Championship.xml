@@ -13455,7 +13455,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="exit720" percent="0.9" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="exit720" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="832" y="304" width="16" height="16">
                 <colors>
@@ -14516,7 +14516,7 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
-    <label name="leaderboard_select_race" percent="0.9" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="leaderboard_select_race" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="864" y="672" width="16" height="16">
                 <colors>
@@ -15061,7 +15061,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="leaderboard_select_race-2" percent="0.9" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="leaderboard_select_race-2" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="1120" y="672" width="16" height="16">
                 <colors>
@@ -15606,7 +15606,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Display_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Display_720p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="528" y="480" width="16" height="16">
                 <colors>
@@ -16671,7 +16671,7 @@
         </pad>
         <exitfilter exit_code="149607702" exit_time="3.50325e-44"/>
     </label>
-    <label name="Resolution_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Resolution_720p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="592" y="208" width="16" height="16">
                 <colors>
@@ -18255,7 +18255,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="Graphics_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Graphics_720p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="112" y="480" width="16" height="16">
                 <colors>
@@ -20359,7 +20359,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="LeaderBoard_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="LeaderBoard_720p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="96" y="160" width="16" height="16">
                 <colors>
@@ -21425,7 +21425,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Multiplayer_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Multiplayer_720p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="704" y="416" width="16" height="16">
                 <colors>
@@ -22230,7 +22230,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Online_LeaderBoard_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Online_LeaderBoard_720p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="1136" y="672" width="16" height="16">
                 <colors>
@@ -23295,7 +23295,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Post_Process_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Post_Process_720p" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="112" y="544" width="16" height="16">
                 <colors>
@@ -25400,7 +25400,7 @@
         </pad>
         <exitfilter exit_code="377" exit_time="0"/>
     </label>
-    <label name="Gray_Graphics_720p" percent="0.75" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.8" btn_press_block_time_after_move="0.8" key_press_block_time_after_key_press="0">
+    <label name="Gray_Graphics_720p" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.8" btn_press_block_time_after_move="0.8" key_press_block_time_after_key_press="0.8">
         <tags>
             <tag x="1056" y="48" width="16" height="16">
                 <colors>
