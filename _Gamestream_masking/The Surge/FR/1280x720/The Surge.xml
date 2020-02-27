@@ -2107,7 +2107,9 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
+            <key>
+                <scancode value="27"/>
+            </key>
             <gamepad>
                 <button value="8"/>
                 <button value="9"/>
