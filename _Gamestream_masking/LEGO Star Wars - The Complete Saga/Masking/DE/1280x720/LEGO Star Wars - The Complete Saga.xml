@@ -10542,6 +10542,7 @@
             <mouse/>
             <key>
                 <scancode value="13"/>
+                <scancode value="32"/>
             </key>
             <gamepad>
                 <button value="12"/>
@@ -13686,6 +13687,7 @@
             <mouse/>
             <key>
                 <scancode value="13"/>
+                <scancode value="32"/>
             </key>
             <gamepad>
                 <button value="12"/>
@@ -16570,6 +16572,7 @@
             <mouse/>
             <key>
                 <scancode value="13"/>
+                <scancode value="32"/>
             </key>
             <gamepad>
                 <button value="12"/>
