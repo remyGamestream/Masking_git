@@ -2383,6 +2383,25 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
+    <label name="grey-red" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+        <tags/>
+        <whitelist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </whitelist>
+        <blacklist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </blacklist>
+        <pad>
+            <rx min="-1" max="1"/>
+            <ry min="-1" max="1"/>
+            <lx min="-1" max="1"/>
+            <ly min="-1" max="1"/>
+        </pad>
+    </label>
     <label name="grey_menu" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
         <tags>
             <tag x="336" y="704" width="16" height="16">
@@ -3166,6 +3185,63 @@
                 </colors>
             </tag>
         </tags>
+        <whitelist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </whitelist>
+        <blacklist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </blacklist>
+        <pad>
+            <rx min="-1" max="1"/>
+            <ry min="-1" max="1"/>
+            <lx min="-1" max="1"/>
+            <ly min="-1" max="1"/>
+        </pad>
+    </label>
+    <label name="grey-purple" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+        <tags/>
+        <whitelist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </whitelist>
+        <blacklist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </blacklist>
+        <pad>
+            <rx min="-1" max="1"/>
+            <ry min="-1" max="1"/>
+            <lx min="-1" max="1"/>
+            <ly min="-1" max="1"/>
+        </pad>
+    </label>
+    <label name="grey-blackred" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+        <tags/>
+        <whitelist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </whitelist>
+        <blacklist>
+            <mouse/>
+            <key/>
+            <gamepad/>
+        </blacklist>
+        <pad>
+            <rx min="-1" max="1"/>
+            <ry min="-1" max="1"/>
+            <lx min="-1" max="1"/>
+            <ly min="-1" max="1"/>
+        </pad>
+    </label>
+    <label name="grey-black" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+        <tags/>
         <whitelist>
             <mouse/>
             <key/>
