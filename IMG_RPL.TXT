@@ -1,0 +1,42 @@
+DL apitrace-msvc :
+https://github.com/apitrace/apitrace
+
+Go in the folder corresponding to your game (x64 for 64bits game and x86 for 32bits games) then open "bin" directory
+
+Launch qapitrace.exe
+
+File -> New
+
+Choose The API you want to track, depending of the game renderer api (OpenGL, D3D9 or D3D11)
+
+Browse to the game exe in Application
+
+Set "Working directory" to where you want to save the image
+
+Set arguments for the game exe if needed
+
+Press OK, the game start
+Go to the screen where the texture you want to change is located then kill the game
+
+You now have the full trace of the renderer API calls
+Go to the lasts frames and find the call named : 
+
+---------------------------
+FOR D3D11 :
+
+"DrawIndexed"
+Then right-click on the call and press "LookUp State"
+A replay of the game now start, wait till the end, NEVER CLOSE THE WINDOW
+When it's finish look at the right tab, choose "surfaces" and look in "Textures" if the image you want to change is present
+if the texture you are looking for is present, right click on it and press "Save Image", the image is now save in the bin directory
+look with paint and find the dimensions of the image (example 64x64 ,128x128 etc)
+then make the image that will replace the precedent at the same dimensions, in png, RGB + Alpha channel
+put both on them in a directory with name as follow:
+image to replace : name_to_rpl.png
+New image : name_new.png
+
+if the texture you're looking for isn't her, look in the framebuffer if the texture is already set in the image
+- if it is you have to look in precedent calls and do the sames actions as before
+- if the texture is not already set, you have to look next calls and do the sames actions as before
+
+---------------------------
