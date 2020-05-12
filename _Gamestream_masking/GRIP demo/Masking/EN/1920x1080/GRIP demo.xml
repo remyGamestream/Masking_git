@@ -5777,7 +5777,9 @@
             </gamepad>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="143" y="180" width="1600" height="759"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -8403,7 +8405,9 @@
             </gamepad>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="128" y="146" width="1679" height="777"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
