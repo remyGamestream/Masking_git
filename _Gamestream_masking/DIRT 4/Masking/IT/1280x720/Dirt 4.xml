@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
-    <global w="1280" h="720" progname="Dirt 4"/>
+    <global w="1280" h="720" progname="DIRT 4"/>
     <label name="grey_menu" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.4" btn_press_block_time_after_move="0.4" key_press_block_time_after_key_press="0.4">
         <tags>
             <tag x="288" y="16" width="16" height="16">
@@ -3414,7 +3414,9 @@
             </gamepad>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="48" y="91" width="1189" height="558"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -4994,7 +4996,10 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="58" y="256" width="296" height="38"/>
+                <rect x="57" y="339" width="296" height="43"/>
+            </mouse>
             <key>
                 <scancode value="27"/>
                 <scancode value="32"/>
@@ -6324,7 +6329,9 @@
             </gamepad>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="43" y="162" width="1178" height="402"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -6868,7 +6875,9 @@
             </gamepad>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="57" y="118" width="1181" height="492"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
