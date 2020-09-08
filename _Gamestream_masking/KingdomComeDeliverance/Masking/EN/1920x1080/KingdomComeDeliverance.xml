@@ -2123,7 +2123,7 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
-    <label name="grey_menu" percent="1" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.5">
+    <label name="grey_menu" percent="1" percent_per_block="0.9" grey_filter="1" move_block_time_after_btn_press="0.5" btn_press_block_time_after_move="0.5" key_press_block_time_after_key_press="0.2">
         <tags>
             <tag x="1472" y="256" width="16" height="16">
                 <colors>
