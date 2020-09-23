@@ -3982,7 +3982,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="black-coopIG" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="black-coopIG" percent="0.9" percent_per_block="0.8" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="416" y="592" width="16" height="16">
                 <colors>
@@ -5569,7 +5569,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="black-coopIG2" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="black-coopIG2" percent="0.9" percent_per_block="0.8" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="432" y="544" width="16" height="16">
                 <colors>
@@ -6896,7 +6896,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="black-display" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="black-display" percent="0.9" percent_per_block="0.8" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="464" y="528" width="16" height="16">
                 <colors>
@@ -8483,7 +8483,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="black-gamma" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="black-gamma" percent="0.9" percent_per_block="0.8" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="816" y="704" width="16" height="16">
                 <colors>
