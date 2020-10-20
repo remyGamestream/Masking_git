@@ -9799,6 +9799,7 @@
             </key>
             <gamepad>
                 <button value="12"/>
+                <button value="14"/>
             </gamepad>
         </blacklist>
         <pad>
