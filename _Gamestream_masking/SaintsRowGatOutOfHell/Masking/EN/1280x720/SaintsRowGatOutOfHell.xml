@@ -1062,7 +1062,7 @@
         </pad>
         <exitfilter exit_code="2" exit_time="10"/>
     </label>
-    <label name="grey-options" percent="0" percent_per_block="0" grey_filter="1" move_block_time_after_btn_press="0.3" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
+    <label name="grey-options" percent="1" percent_per_block="1" grey_filter="1" move_block_time_after_btn_press="0.3" btn_press_block_time_after_move="0.3" key_press_block_time_after_key_press="0.3">
         <tags>
             <tag x="288" y="224" width="16" height="16">
                 <colors>
