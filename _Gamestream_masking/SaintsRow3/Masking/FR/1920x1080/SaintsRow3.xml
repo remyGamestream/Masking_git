@@ -6867,13 +6867,6 @@
         </tags>
         <whitelist>
             <mouse/>
-            <key/>
-            <gamepad/>
-        </whitelist>
-        <blacklist>
-            <mouse>
-                <rect x="427" y="675" width="1072" height="99"/>
-            </mouse>
             <key>
                 <scancode value="27"/>
                 <scancode value="13"/>
@@ -6882,12 +6875,19 @@
                 <button value="12"/>
                 <button value="13"/>
             </gamepad>
+        </whitelist>
+        <blacklist>
+            <mouse>
+                <rect x="427" y="675" width="1072" height="99"/>
+            </mouse>
+            <key/>
+            <gamepad/>
         </blacklist>
         <pad>
-            <rx min="-1" max="1"/>
-            <ry min="-1" max="1"/>
-            <lx min="-1" max="1"/>
-            <ly min="-1" max="1"/>
+            <rx min="0" max="0"/>
+            <ry min="0" max="0"/>
+            <lx min="0" max="0"/>
+            <ly min="0" max="0"/>
         </pad>
     </label>
     <label name="block-bonus" percent="1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
