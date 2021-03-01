@@ -6339,7 +6339,9 @@
             </gamepad>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="348" y="136" width="1221" height="268"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -12133,7 +12135,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="365" y="155" width="1174" height="254"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -12933,7 +12937,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="374" y="152" width="1165" height="257"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -13733,7 +13739,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="349" y="153" width="1222" height="259"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -14533,7 +14541,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="404" y="165" width="1130" height="250"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
@@ -15593,7 +15603,9 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse/>
+            <mouse>
+                <rect x="404" y="159" width="1156" height="250"/>
+            </mouse>
             <key/>
             <gamepad/>
         </blacklist>
