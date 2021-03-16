@@ -2928,9 +2928,9 @@
         </blacklist>
         <pad>
             <rx min="0" max="0"/>
-            <ry min="-1" max="1"/>
+            <ry min="0" max="0"/>
             <lx min="0" max="0"/>
-            <ly min="-1" max="1"/>
+            <ly min="0" max="0"/>
         </pad>
     </label>
     <label name="black-graphics2" percent="1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
