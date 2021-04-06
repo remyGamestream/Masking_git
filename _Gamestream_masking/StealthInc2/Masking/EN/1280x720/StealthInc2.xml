@@ -3957,6 +3957,8 @@
             <key>
                 <scancode value="100"/>
                 <scancode value="102"/>
+                <scancode value="37"/>
+                <scancode value="39"/>
             </key>
             <gamepad>
                 <button value="2"/>
