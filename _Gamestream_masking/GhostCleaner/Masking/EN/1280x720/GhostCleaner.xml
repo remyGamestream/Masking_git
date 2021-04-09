@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <labels>
     <global w="1280" h="720" progname="GhostCleaner"/>
-    <label name="blackfullscreenandexit" percent="0.2" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="blackfullscreenandexit" percent="0.1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="320" y="144" width="16" height="16">
                 <colors>
@@ -1570,9 +1570,7 @@
             <gamepad/>
         </whitelist>
         <blacklist>
-            <mouse>
-                <rect x="84" y="557" width="254" height="74"/>
-            </mouse>
+            <mouse/>
             <key/>
             <gamepad/>
         </blacklist>

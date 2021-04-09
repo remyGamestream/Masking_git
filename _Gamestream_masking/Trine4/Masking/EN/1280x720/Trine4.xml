@@ -5016,7 +5016,10 @@
                 <rect x="906" y="108" width="216" height="103"/>
             </mouse>
             <key/>
-            <gamepad/>
+            <gamepad>
+                <button value="6"/>
+                <button value="7"/>
+            </gamepad>
         </blacklist>
         <pad>
             <rx min="-1" max="1"/>
