@@ -9466,9 +9466,9 @@
         </whitelist>
         <blacklist>
             <mouse>
-                <rect x="130" y="223" width="1422" height="545"/>
                 <rect x="655" y="118" width="365" height="88"/>
                 <rect x="1595" y="907" width="310" height="153"/>
+                <rect x="166" y="223" width="1348" height="569"/>
             </mouse>
             <key/>
             <gamepad/>
@@ -9480,7 +9480,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="black-graphics-korean-gamepad" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="black-graphics-korean-gamepad" percent="1" percent_per_block="1" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="1264" y="304" width="16" height="16">
                 <colors>
