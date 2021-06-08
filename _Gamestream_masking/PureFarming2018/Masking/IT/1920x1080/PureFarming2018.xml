@@ -5054,7 +5054,7 @@
         <pad>
             <rx min="-1" max="1"/>
             <ry min="-1" max="1"/>
-            <lx min="-1" max="1"/>
+            <lx min="0" max="0"/>
             <ly min="-1" max="1"/>
         </pad>
     </label>
@@ -6121,7 +6121,7 @@
         <pad>
             <rx min="-1" max="1"/>
             <ry min="-1" max="1"/>
-            <lx min="-1" max="1"/>
+            <lx min="0" max="0"/>
             <ly min="-1" max="1"/>
         </pad>
     </label>
@@ -7188,7 +7188,7 @@
         <pad>
             <rx min="-1" max="1"/>
             <ry min="-1" max="1"/>
-            <lx min="-1" max="1"/>
+            <lx min="0" max="0"/>
             <ly min="-1" max="1"/>
         </pad>
     </label>

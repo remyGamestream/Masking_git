@@ -8170,7 +8170,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="Resolution_720p" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Resolution_720p" percent="1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="928" y="288" width="16" height="16">
                 <colors>
@@ -9518,7 +9518,7 @@
             <ly min="-1" max="1"/>
         </pad>
     </label>
-    <label name="Graphic_Quality_IG" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Graphic_Quality_IG" percent="1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="400" y="400" width="16" height="16">
                 <colors>
@@ -10322,7 +10322,7 @@
             <ly min="0" max="0"/>
         </pad>
     </label>
-    <label name="Resolution_720p_IG" percent="0.75" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
+    <label name="Resolution_720p_IG" percent="1" percent_per_block="0.9" grey_filter="0" move_block_time_after_btn_press="0" btn_press_block_time_after_move="0" key_press_block_time_after_key_press="0">
         <tags>
             <tag x="928" y="304" width="16" height="16">
                 <colors>
