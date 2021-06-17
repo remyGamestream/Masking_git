@@ -1,7 +1,7 @@
 GamepadGrid: 16,9
 lBtRTr: -3,-3,-1
-lBtA: -4,-5
+lPadL: 2,-3
+lPadR: -7,-3
 lBtStart: 7,0
+lBtA: -4,-5
 lBtB: -3,-6
-lPadL: -14,-3
-lPadR: 9,-3

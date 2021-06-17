@@ -1,0 +1,16 @@
+GamepadGrid: 16,10
+lBtRTr: -3,-3,-1
+lPadR: -6,-3
+lPadD: 2,1
+lPadL: 2,-3
+lBtY: -4,-7
+lBtSelect: 6,0
+lBtL3: -9,-1
+lBtA: -4,-5
+lBtL: 1,-5
+lBtX: -5,-6
+lBtStart: 8,0
+lBtR3: -7,-5
+lBtB: -3,-6
+lBtR: 4,-5
+lBtLTr: -8,-3,1
