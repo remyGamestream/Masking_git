@@ -3454,6 +3454,8 @@
         <blacklist>
             <mouse/>
             <key>
+                <scancode value="13"/>
+                <scancode value="32"/>
                 <scancode value="79"/>
             </key>
             <gamepad>
